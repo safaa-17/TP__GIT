@@ -2,6 +2,8 @@
 
 int main(){
 
+    printf("Version 2");
+
     //Type nom; -- le langage C est sensible à la casse
     int nombreEntier;
     float nombreDecimal = 9.98;
